@@ -1,5 +1,5 @@
 <head>
-				<title>Belajar HTML</title>
+				Belajar HTML
 </head>
 <body>
 				belajar html
