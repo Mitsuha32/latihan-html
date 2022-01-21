@@ -2,7 +2,6 @@
 				Belajar HTML
 </head>
 <body>
-				belajar html
 <font color="red">Risko</font><br>
 </body>
 <form>
